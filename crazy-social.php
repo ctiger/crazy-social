@@ -3,7 +3,7 @@
 Plugin Name: crazy-social
 Plugin URI: http://prmv.ru/
 Description: Социальные кнопки
-Version: 0.1
+Version: 0.2
 Author: Shamil Pirumow
 Author URI: http://prmv.ru/
 */
